@@ -14,7 +14,7 @@ terraform {
     organization = "Ahead"
 
     workspaces {
-      name = "sentinel-example"
+      name = "tfe-demo-curless"
     }
   }
 }
